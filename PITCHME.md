@@ -5,6 +5,14 @@
 
 #### A primer on navigating the Git command line
 
+```shell
+$ git add PITCHME.md
+$ git commit -m "New slideshow content."
+$ git push
+
+Done!
+```
+
 
 ---
 
