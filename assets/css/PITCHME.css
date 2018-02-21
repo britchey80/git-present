@@ -10,6 +10,10 @@ span.byline, span.aside {
   color: #bbb;
 }
 
+.title {
+  float:right;
+}
+
 span.byline {
   font-size: 80%;
 }

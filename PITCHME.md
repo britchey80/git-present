@@ -8,9 +8,9 @@
 
 ---
 
-@title[PITCHME.md]
+@title[Getting Started]
 
-#### GitPitch turns <span class="gold">PITCHME.md</span> into
+#### <span class="title">Getting Started</span>
 #### interactive,
 #### online and offline slideshows
 <br>
