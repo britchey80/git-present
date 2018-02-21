@@ -64,3 +64,4 @@ $
 ```
 
 @[1](Add a new file to the repository)
+@[2-11](Check status of files)
