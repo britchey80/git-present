@@ -14,7 +14,11 @@
 <br>
 <br>
 <ul>
-    <li>Debian</li>
+    <li>Debian <span>
+        ```shell
+        $ apt-get install git
+        ```
+    </span></li>
     <li>CentOS</li>
     <li>Mac</li>
 </ul>
