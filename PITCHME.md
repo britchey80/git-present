@@ -28,6 +28,7 @@ $ brew install git
 ---
 @title[sample code]
 ### Status and Add
+#### *Click forward a few times to see code highlighting
 
 ```shell
 $ echo "This is my first file" > test.txt
