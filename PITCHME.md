@@ -35,6 +35,8 @@ $ brew install git
 
 
 ---
+@title[sample code]
+### Status and Add
 
 ```shell
 Linodes-MacBook-Pro-2:git-present kmchale$ echo "This is my first file" > test.txt
@@ -60,3 +62,5 @@ Changes to be committed:
 
 Linodes-MacBook-Pro-2:git-present kmchale$
 ```
+
+---
