@@ -10,11 +10,14 @@
 
 @title[Getting Started]
 
-#### <span class="title">Getting Started</span>
-#### interactive,
-#### online and offline slideshows
+#### Getting Started
 <br>
-<span class="aside">Just like this one...</span>
+<br>
+<ul>
+    <li>Debian</li>
+    <li>CentOS</li>
+    <li>Mac</li>
+</ul>
 
 ---
 
