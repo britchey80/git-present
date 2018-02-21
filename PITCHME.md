@@ -15,10 +15,11 @@
 <br>
 <ul>
     <li>Debian <span>
-        ```shell
-        $ apt-get install git
-        ```
+```shell
+$ apt-get install git
+```
     </span></li>
+
     <li>CentOS</li>
     <li>Mac</li>
 </ul>
