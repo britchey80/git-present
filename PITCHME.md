@@ -18,6 +18,7 @@
 ```shell
 $ apt-get install git
 ```
+@[1](Add your PITCHME.md slideshow content file.)
     </span></li>
 ```shell
 $ apt-get install git
@@ -56,9 +57,6 @@ $ git push
 Done!
 ```
 
-```shell
-$ apt-get install git
-```
 
 @[1](Add your PITCHME.md slideshow content file.)
 @[2](Commit PITCHME.md to your local repo.)
