@@ -65,3 +65,5 @@ $
 
 @[1](Add a new file to the repository)
 @[2-11](Check status of files)
+@[12](Use git add to prepare for commit)
+@[13-20](Check status to show changes to be committed)
