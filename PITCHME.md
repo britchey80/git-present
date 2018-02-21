@@ -17,17 +17,17 @@ Done!
 ---
 @title[Getting Started]
 ### Getting Started
-####Debian
+#### Debian
 ```shell
 $ apt-get install git
 ```
 <br>
-####CentOS
+#### CentOS
 ```shell
 $ yum install git
 ```
 <br>
-####MacOS
+#### MacOS
 ```shell
 $ brew install git
 ```
