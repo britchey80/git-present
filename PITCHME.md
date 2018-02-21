@@ -56,6 +56,10 @@ $ git push
 Done!
 ```
 
+```shell
+$ apt-get install git
+```
+
 @[1](Add your PITCHME.md slideshow content file.)
 @[2](Commit PITCHME.md to your local repo.)
 @[3](Push PITCHME.md to your public repo and you're done!)
