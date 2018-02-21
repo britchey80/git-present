@@ -1,19 +1,18 @@
 @title[Introduction]
 
-# Git<span class="gold">Pitch</span>
+# Git
+## <span class="gold">Command Line Basics</span>
 
-#### Markdown Presentations For Everyone on Git
-<br>
-<br>
-<span class="byline">[ GitHub, GitLab, Bitbucket, GitBucket, Gitea, Gogs ]</span>
-..
+#### A primer on navigating the Git command line
+
+
 ---
 
 @title[PITCHME.md]
 
 #### GitPitch turns <span class="gold">PITCHME.md</span> into
 #### interactive,
-#### online and offline slideshows.
+#### online and offline slideshows
 <br>
 <span class="aside">Just like this one...</span>
 
