@@ -63,4 +63,7 @@ Changes to be committed:
 Linodes-MacBook-Pro-2:git-present kmchale$
 ```
 
+```shell
+$ echo "this is my first test" > test.txt
+```
 ---
