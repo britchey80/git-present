@@ -19,7 +19,9 @@
 $ apt-get install git
 ```
     </span></li>
-
+```shell
+$ apt-get install git
+```
     <li>CentOS</li>
     <li>Mac</li>
 </ul>
