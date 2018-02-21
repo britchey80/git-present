@@ -21,22 +21,18 @@ Done!
 #### Getting Started
 <br>
 <br>
-<ul>
-    <li>Debian <span>
+
+<p>Debian</p>
 ```shell
 $ apt-get install git
 ```
-@[1](Add your PITCHME.md slideshow content file.)
-    </span></li>
+<br>
+<p>CentOS</p>
+```shell
+$ yum install git
+```
 <br>
 
-```shell
-$ apt-get install git
-```
-
-    <li>CentOS</li>
-    <li>Mac</li>
-</ul>
 
 ---
 
