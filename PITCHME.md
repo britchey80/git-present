@@ -20,9 +20,12 @@ $ apt-get install git
 ```
 @[1](Add your PITCHME.md slideshow content file.)
     </span></li>
+<br>
+
 ```shell
 $ apt-get install git
 ```
+
     <li>CentOS</li>
     <li>Mac</li>
 </ul>
