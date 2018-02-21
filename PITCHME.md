@@ -39,8 +39,8 @@ $ brew install git
 ### Status and Add
 
 ```shell
-Linodes-MacBook-Pro-2:git-present kmchale$ echo "This is my first file" > test.txt
-Linodes-MacBook-Pro-2:git-present kmchale$ git status
+$ echo "This is my first file" > test.txt
+$ git status
 On branch master
 Your branch is up-to-date with 'origin/master'.
 
@@ -50,8 +50,8 @@ Untracked files:
     test.txt
 
 nothing added to commit but untracked files present (use "git add" to track)
-Linodes-MacBook-Pro-2:git-present kmchale$ git add test.txt
-Linodes-MacBook-Pro-2:git-present kmchale$ git status
+$ git add test.txt
+$ git status
 On branch master
 Your branch is up-to-date with 'origin/master'.
 
@@ -60,9 +60,7 @@ Changes to be committed:
 
     new file:   test.txt
 
-Linodes-MacBook-Pro-2:git-present kmchale$
+$
 ```
 
-```shell
-$ echo "this is my first test" > test.txt
-```
+@[1](Add a new file to the repository)
