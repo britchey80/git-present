@@ -17,6 +17,7 @@ Done!
 ---
 @title[Getting Started]
 ### Getting Started
+<br>
 #### Debian
 ```shell
 $ apt-get install git
